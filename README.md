@@ -1,6 +1,6 @@
 ## Hello world!! Eu sou o Neto! 😉
 
-- Desenvolvedor de Front-End
+- Desenvolvedor Front-End
 
 <div align="center">
   <a href="https://github.com/NtSoares">
